@@ -1,0 +1,15 @@
+{
+  "common.footer": "Made by Michał Szczepaniak",
+  "button.add": "Add to cart",
+  "button.remove": "Remove from cart",
+  "button.buy": "Confirm and buy",
+  "cart.summary": "Total amount",
+  "cart.movie": "Movies in your cart",
+  "empty.list": "No movies with chosen category",
+  "empty.cart": "No movies in cart",
+  "movie.list": "Add your favourite movies to cart",
+  "movie.description": "Description",
+  "movie.year": "Year",
+  "movie.category": "Category",
+  "category.filter": "Category"
+}
